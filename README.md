@@ -3,4 +3,4 @@ Instagram crawler
 
 run crawler.py
 
-or run crawler.exe
+(Pyinstaller packaged and released crawler.exe)
