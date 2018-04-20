@@ -1,5 +1,5 @@
 # Instagram
-Instagram crawler
+simple instagram crawler
 
 run crawler.py
 
